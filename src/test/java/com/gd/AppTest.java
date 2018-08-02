@@ -1,4 +1,4 @@
-package com.gd.maven;
+package com.gd;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
